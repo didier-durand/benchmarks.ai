@@ -1,0 +1,502 @@
+[
+    {
+        "image_name": "751.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "798.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "1199.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "2629.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "2672.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "2971.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "3042.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "3585.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "3842.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "4230.png",
+        "question": [
+            "How many different coloured dotlines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "4735.png",
+        "question": [
+            "What is the percentage of children who received DPT vaccine in 2007  ?"
+        ],
+        "answer": [
+            100
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "5648.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "7329.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "7368.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "8417.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "9426.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "9615.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "10671.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "10687.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "11260.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "12469.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "12948.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "14682.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "15397.png",
+        "question": [
+            "Does the graph contain any zero values ?"
+        ],
+        "answer": [
+            "No"
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "15541.png",
+        "question": [
+            "Does the graph contain any zero values ?"
+        ],
+        "answer": [
+            "No"
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "16552.png",
+        "question": [
+            "Does the graph contain any zero values ?"
+        ],
+        "answer": [
+            "No"
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "16955.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "17230.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "18532.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "19016.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "19628.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "20176.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "20356.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "20934.png",
+        "question": [
+            "How many different coloured lines are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "22211.png",
+        "question": [
+            "What is the amount of account balance in 2009 ?"
+        ],
+        "answer": [
+            0
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "22317.png",
+        "question": [
+            "What is the total subscribers in 2012 ?"
+        ],
+        "answer": [
+            "1.6000e+5"
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "22343.png",
+        "question": [
+            "What is the percentage of birth in 2012 ?"
+        ],
+        "answer": [
+            12
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "22446.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "22837.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "23811.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            2
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "25376.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "25921.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "26705.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            3
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "28652.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "28811.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "28984.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "30270.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "30794.png",
+        "question": [
+            "How many different coloured bars are there ?"
+        ],
+        "answer": [
+            4
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "32328.png",
+        "question": [
+            "Does the graph contain any zero values ?"
+        ],
+        "answer": [
+            "No"
+        ],
+        "dataset_name": "PlotQA"
+    },
+    {
+        "image_name": "33198.png",
+        "question": [
+            "Does the graph contain any zero values ?"
+        ],
+        "answer": [
+            "No"
+        ],
+        "dataset_name": "PlotQA"
+    }
+]
