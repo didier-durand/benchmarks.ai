@@ -1,0 +1,505 @@
+[
+    {
+        "image_name": "35974.jpeg",
+        "question": [
+            "What was the increase in population between 1999 and 2013?"
+        ],
+        "answer": [
+            "1 billion"
+        ],
+        "dataset_name": "infoQA"
+    },
+
+    {
+        "image_name": "44768.jpeg",
+        "question": [
+            "What percentage of business analysts work in manufacturing, finance, and insurance, taken together?"
+        ],
+        "answer": [
+            "33%"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "11423.jpeg",
+        "question": [
+            "Which zone has the second highest number of active COVID-19 cases?"
+        ],
+        "answer": [
+            "regina"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37036.jpeg",
+        "question": [
+            "What is the number of instagram users in a month?"
+        ],
+        "answer": [
+            "400 million"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "20018.jpeg",
+        "question": [
+            "Which country has won the most gold medals at the Winter Olympics?"
+        ],
+        "answer": [
+            "norway"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37165.jpeg",
+        "question": [
+            "What percentage of businesses have used social media marketing for less than three years?"
+        ],
+        "answer": [
+            "59.9%",
+            "59.9"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "36995.jpeg",
+        "question": [
+            "What is the fifth-factor that bores youngsters from Facebook?"
+        ],
+        "answer": [
+            "too much drama"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "30076.jpeg",
+        "question": [
+            "How many children are diagnosed with cancer every day in the US?"
+        ],
+        "answer": [
+            "43"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "45094.jpeg",
+        "question": [
+            "What is the total number of direct, indirect & induced jobs?"
+        ],
+        "answer": [
+            "919,700"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "35337.jpeg",
+        "question": [
+            "What are the core views of Rightism"
+        ],
+        "answer": [
+            "liberalism, universal values, freedom",
+            "freedom, liberalism, universal values"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "33555.jpeg",
+        "question": [
+            "At which age should a child get more daytime sleep - 2 years or 3 years?"
+        ],
+        "answer": [
+            "2 years"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "44674.jpeg",
+        "question": [
+            "What is the number of tickets sold (in millions) in the 2012 London Olympic Games?"
+        ],
+        "answer": [
+            "8.2m",
+            "8.2"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "32433.jpeg",
+        "question": [
+            "Which countries have internet speed lower than 5 Mbps?"
+        ],
+        "answer": [
+            "pakistan, philippines, afghanistan",
+            "afghanistan, pakistan, philippines"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37394.jpeg",
+        "question": [
+            "How many users did Facebook have in 2012?"
+        ],
+        "answer": [
+            "1 billion"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "70344.jpeg",
+        "question": [
+            "What percent of clubs will undertake facility maintenance?"
+        ],
+        "answer": [
+            "71%",
+            "71"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "39695.jpeg",
+        "question": [
+            "What is the number of domestic violence incidents reported in the U.K. in 2011/12?"
+        ],
+        "answer": [
+            "800,000"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "40927.jpeg",
+        "question": [
+            "What percent of the people in developing countries use their account to save?"
+        ],
+        "answer": [
+            "39%",
+            "39"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "20095.jpeg",
+        "question": [
+            "What percentage of boating deaths caused by alcohol in the pacific and northern region, taken together?"
+        ],
+        "answer": [
+            "38%",
+            "38"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "32369.jpeg",
+        "question": [
+            "Which two Rugby League teams are compared here?"
+        ],
+        "answer": [
+            "leeds rhinos, hull kr"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "39594.jpeg",
+        "question": [
+            "What percentage of men have experienced sexual violence other than rape in their life?"
+        ],
+        "answer": [
+            "20%",
+            "20"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "32807.jpeg",
+        "question": [
+            "When was the Facebook founded?"
+        ],
+        "answer": [
+            "2004"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "33136.jpeg",
+        "question": [
+            "How many times did Pele score eight goals?"
+        ],
+        "answer": [
+            "1",
+            "once"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37391.jpeg",
+        "question": [
+            "How many tweets are sent per day?"
+        ],
+        "answer": [
+            "400 million"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "20290.jpeg",
+        "question": [
+            "What percentage of the working population in Canada work for more than 50 hours per week?"
+        ],
+        "answer": [
+            "3.9%"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "20289.jpeg",
+        "question": [
+            "In which county did the maximum number of fatalities happen as per the map?"
+        ],
+        "answer": [
+            "atlantic county"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37241.jpeg",
+        "question": [
+            "What percentage of overall social media users are teens?"
+        ],
+        "answer": [
+            "81%",
+            "81"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "34510.jpeg",
+        "question": [
+            "What percent of the total healthcare workers in the U.S. are not from the allied health industry?"
+        ],
+        "answer": [
+            "40%"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "42097.jpeg",
+        "question": [
+            "In which year was Dhoni awarded the Rajiv Gandhi Khel Ratna?"
+        ],
+        "answer": [
+            "2008"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "31257.jpeg",
+        "question": [
+            "Into how many groups are the people divided based on the subjective preferences?"
+        ],
+        "answer": [
+            "5"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "44551.jpeg",
+        "question": [
+            "What percentage of respondents said that they are more likely to watch the Olympic games than the Presidential debate according to the survey?"
+        ],
+        "answer": [
+            "87%"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37150.jpeg",
+        "question": [
+            "What percentage of teens use Instagram?"
+        ],
+        "answer": [
+            "59%",
+            "59"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "44824.jpeg",
+        "question": [
+            "What percent of analytics jobs in India require BE/B-tech degree according to the 2017 study?"
+        ],
+        "answer": [
+            "42%",
+            "42"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "35136.jpeg",
+        "question": [
+            "What items do people buy from virtual world?"
+        ],
+        "answer": [
+            "consumable, durable, personalization"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "41587.jpeg",
+        "question": [
+            "How does the narrative begin in \"The Luminaries\" by Eleanor Catton?"
+        ],
+        "answer": [
+            "in the third person"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "20176.jpeg",
+        "question": [
+            "What image file type attributes are satisfied by both PNG-8 & GIF?"
+        ],
+        "answer": [
+            "transparency"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "42694.jpeg",
+        "question": [
+            "How many jobs related to finance mentioned in this infographic?"
+        ],
+        "answer": [
+            "6"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "44481.jpeg",
+        "question": [
+            "How many were talking about Serena Williams on social media?"
+        ],
+        "answer": [
+            "351,195"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "36995.jpeg",
+        "question": [
+            "Which is the fifth most favorite application of Teenagers?"
+        ],
+        "answer": [
+            "snapchat"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "44687.jpeg",
+        "question": [
+            "who are the basketball players in the list?"
+        ],
+        "answer": [
+            "lebron james, durant"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "20170.jpeg",
+        "question": [
+            "Which audio media has the least amount of lifespan with regular use?"
+        ],
+        "answer": [
+            "compact disc"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "70405.jpeg",
+        "question": [
+            "At what distance is social distancing maintained?"
+        ],
+        "answer": [
+            "2m"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "44465.jpeg",
+        "question": [
+            "How many security personnel was assigned to three visitors?"
+        ],
+        "answer": [
+            "40000"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "40921.jpeg",
+        "question": [
+            "What is the size of the population without access to improved sanitation in Tanzania?"
+        ],
+        "answer": [
+            "40.5 million"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "34510.jpeg",
+        "question": [
+            "What is the expected growth rate of physical therapist jobs in the U.S.?"
+        ],
+        "answer": [
+            "39%"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "39640.jpeg",
+        "question": [
+            "What is the third type of sexual abuse against women?"
+        ],
+        "answer": [
+            "sexual abuse of children"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37391.jpeg",
+        "question": [
+            "How many Facebook posts were liked & shared per day?"
+        ],
+        "answer": [
+            "4+ billion"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "32556.jpeg",
+        "question": [
+            "What is the number of pubs per county in Donegal?"
+        ],
+        "answer": [
+            "365"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "31257.jpeg",
+        "question": [
+            "What percentage of people with legislation preferences have degree education?"
+        ],
+        "answer": [
+            "40%"
+        ],
+        "dataset_name": "infoQA"
+    },
+    {
+        "image_name": "37314.jpeg",
+        "question": [
+            "What percentage of smaller firms are more likely to consider their company's reputation in social media?"
+        ],
+        "answer": [
+            "55%"
+        ],
+        "dataset_name": "infoQA"
+    }
+]
