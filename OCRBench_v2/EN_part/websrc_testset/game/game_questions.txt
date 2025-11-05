@@ -1,0 +1,20 @@
+Which company published this game?
+When is the game released?
+What is the game's release date?
+Who is this game's developer?
+What is the game's genre?
+Who developed this game?
+Which company published the game?
+Can you tell the genre of the game?
+When did the game come to the market?
+Who published this game?
+What is the current version of the app?
+What is the date that the app was last updated?
+How large is this app?
+What is the amount of space this app takes up?
+What is the price of the app's in-app products?
+When is the app last updated?
+What is the app's content rating?
+What is the size of the app?
+What is the current rating of this app?
+What is the current version of ths app?

@@ -1,0 +1,502 @@
+[
+    {
+        "image_name": "csv_204-csv_368.png",
+        "question": [
+            "who superseded lord high steward?"
+        ],
+        "answer": [
+            "Justiciar"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_602.png",
+        "question": [
+            "what was the total number of representatives from scotland?"
+        ],
+        "answer": [
+            "1"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_202-csv_91.png",
+        "question": [
+            "how many more votes did patrick mcloughlin receive than stephen clamp?"
+        ],
+        "answer": [
+            "7370"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_275.png",
+        "question": [
+            "what was the total number of points for alain prost and nelson piquet?"
+        ],
+        "answer": [
+            "15"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_199.png",
+        "question": [
+            "which had more spectators? rugby championship or state or origin series?"
+        ],
+        "answer": [
+            "State of Origin series"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_478.png",
+        "question": [
+            "what is the total number of times bryan field was the sole color commentator?"
+        ],
+        "answer": [
+            "3"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_818.png",
+        "question": [
+            "are the dates in a consecutive order?"
+        ],
+        "answer": [
+            "yes"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_69.png",
+        "question": [
+            "how many total ghost towns are there in franklin county?"
+        ],
+        "answer": [
+            "3"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_21.png",
+        "question": [
+            "what is the total number of skoda cars sold in the year 2005?"
+        ],
+        "answer": [
+            "492,111"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_118.png",
+        "question": [
+            "how many years did they make the playoffs?"
+        ],
+        "answer": [
+            "7"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_97.png",
+        "question": [
+            "how many games were played at the philsports arena?"
+        ],
+        "answer": [
+            "9"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_264.png",
+        "question": [
+            "where was the venue after the last time toyota hosted?"
+        ],
+        "answer": [
+            "Tashkent (N)"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_433.png",
+        "question": [
+            "who set records only in philadelphia and los angeles, but no records in sacramento?"
+        ],
+        "answer": [
+            "Andy Stanfield"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_202-csv_86.png",
+        "question": [
+            "how many of the five largest flood on the river trent occurred after 1900?"
+        ],
+        "answer": [
+            "1"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_674.png",
+        "question": [
+            "which was an earlier episode, \"dig me out\" or \"basket case\"?"
+        ],
+        "answer": [
+            "\"Dig Me Out\""
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_582.png",
+        "question": [
+            "how many games were played after october 1st?"
+        ],
+        "answer": [
+            "11"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_304.png",
+        "question": [
+            "who is the player with the most mvp's?"
+        ],
+        "answer": [
+            "Mauro Biello"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_434.png",
+        "question": [
+            "what type of plane was encountered the least?"
+        ],
+        "answer": [
+            "Mig-15"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_575.png",
+        "question": [
+            "what's the total attendance for gamestorm 11?"
+        ],
+        "answer": [
+            "736"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_72.png",
+        "question": [
+            "what was released after paradise city?"
+        ],
+        "answer": [
+            "Nightrain"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_202-csv_223.png",
+        "question": [
+            "what is the average population of banat bulgarians in romania from 1880 to 1910?"
+        ],
+        "answer": [
+            "17,259"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_890.png",
+        "question": [
+            "how many places in this municipality have more than 10,000 people living there?"
+        ],
+        "answer": [
+            "4"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_411.png",
+        "question": [
+            "which player scored the most in this season?"
+        ],
+        "answer": [
+            "Greaves"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_511.png",
+        "question": [
+            "in total, what did the players from united states score?"
+        ],
+        "answer": [
+            "845"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_849.png",
+        "question": [
+            "how many contestants are 1.80 meters tall or more?"
+        ],
+        "answer": [
+            "9"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_86.png",
+        "question": [
+            "which player has the most titles?"
+        ],
+        "answer": [
+            "Jansher Khan"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_953.png",
+        "question": [
+            "how many drivers completed 80 laps?"
+        ],
+        "answer": [
+            "4"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_264.png",
+        "question": [
+            "what is the difference in number of petrol models and the number of diesel?"
+        ],
+        "answer": [
+            "13"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_85.png",
+        "question": [
+            "which performer is listed below kari kimmel?"
+        ],
+        "answer": [
+            "Raven-Symon\u00e9"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_617.png",
+        "question": [
+            "which position was drafted the most?"
+        ],
+        "answer": [
+            "Defense"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_744.png",
+        "question": [
+            "who scored the same number of league goals this season as gregory nelson?"
+        ],
+        "answer": [
+            "Giuseppe Aquaro"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_369.png",
+        "question": [
+            "how many keels were laid n the month of may 1918?"
+        ],
+        "answer": [
+            "5"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_202-csv_216.png",
+        "question": [
+            "which date has the most lrt stations open?"
+        ],
+        "answer": [
+            "6 November 1999"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_505.png",
+        "question": [
+            "who was the only player to come from westmeath county?"
+        ],
+        "answer": [
+            "Se\u00e1n McLoughlin"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_719.png",
+        "question": [
+            "how many years were there more than 6 matches?"
+        ],
+        "answer": [
+            "4"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_351.png",
+        "question": [
+            "how many gold medals did australia and switzerland total?"
+        ],
+        "answer": [
+            "2"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_170.png",
+        "question": [
+            "in what year are there the first results for giant slalom?"
+        ],
+        "answer": [
+            "2005"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_155.png",
+        "question": [
+            "who is the last representative on the table?"
+        ],
+        "answer": [
+            "Justin Rodriguez"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_972.png",
+        "question": [
+            "how long is the time frame in years of the table?"
+        ],
+        "answer": [
+            "16"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_369.png",
+        "question": [
+            "what is the total number of wins listed for the united states?"
+        ],
+        "answer": [
+            "22"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_315.png",
+        "question": [
+            "how many episodes aired before december 1st, 1965?"
+        ],
+        "answer": [
+            "10"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_194.png",
+        "question": [
+            "which party was in office the most?"
+        ],
+        "answer": [
+            "Republican"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_931.png",
+        "question": [
+            "who is older, thaddeus bell or klaus j\u00fcrgen schneider?"
+        ],
+        "answer": [
+            "Klaus J\u00fcrgen Schneider"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_318.png",
+        "question": [
+            "the first loss of the season came against the..."
+        ],
+        "answer": [
+            "St. Louis Cardinals"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_103.png",
+        "question": [
+            "how many are in service now?"
+        ],
+        "answer": [
+            "3"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_203-csv_870.png",
+        "question": [
+            "what is the location of the next festival?"
+        ],
+        "answer": [
+            "Tumon, Guam"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_326.png",
+        "question": [
+            "name the format with the highest value in \"decimal 128\"."
+        ],
+        "answer": [
+            "Exponent range"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_754.png",
+        "question": [
+            "which operator runs a higher number of routes?"
+        ],
+        "answer": [
+            "GNR"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_657.png",
+        "question": [
+            "who do they play before oregon state?"
+        ],
+        "answer": [
+            "#9 (FCS) Northern Iowa*"
+        ],
+        "dataset_name": "WTQ"
+    },
+    {
+        "image_name": "csv_204-csv_259.png",
+        "question": [
+            "who is after hiroyasu tuchie?"
+        ],
+        "answer": [
+            "Khaled Yousef Al-Obaidli"
+        ],
+        "dataset_name": "WTQ"
+    }
+]

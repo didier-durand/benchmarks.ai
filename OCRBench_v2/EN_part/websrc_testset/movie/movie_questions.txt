@@ -1,0 +1,20 @@
+What genre is this movie?
+What is the movie's name mentioned in the website?
+When is this movie released in US?
+How long is this movie?
+Who is the director of the movie?
+What is the movie's genre?
+What is the user score of the movie?
+What is the movie's release date in US?
+What is the age rating of the movie?
+In which yer is the movie released?
+Who is responsible for the film's screenplay?
+What is George Lucas's role in making the film?
+What type is this movie?
+Who directed this movie?
+How long is this movie?
+Which year is this film's release year?
+What is the overview of the movie?
+Who is responsible for the film's screenplay?
+In which year is the movie released?
+What is the category of the movie?
