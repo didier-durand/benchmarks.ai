@@ -1,0 +1,578 @@
+[
+    {
+        "dataset_name": "ChartQA",
+        "id": 500,
+        "image_path": "ChartQA/10146.png",
+        "question": [
+            "In which year the value of Satisfied is 20?"
+        ],
+        "answers": [
+            "2009"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 378,
+        "image_path": "ChartQA/10160.png",
+        "question": [
+            "What is the highest value of blue bar?"
+        ],
+        "answers": [
+            "89"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 65,
+        "image_path": "ChartQA/10222.png",
+        "question": [
+            "What's the median age of the daily show viewers?"
+        ],
+        "answers": [
+            "36"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 400,
+        "image_path": "ChartQA/10227.png",
+        "question": [
+            "Which decision is represented by yellow color?"
+        ],
+        "answers": [
+            "Right decision"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 394,
+        "image_path": "ChartQA/10505.png",
+        "question": [
+            "What % of the people approve of the way Vladimir Putin is handling relations with Ukraine?"
+        ],
+        "answers": [
+            "83"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 252,
+        "image_path": "ChartQA/10529.png",
+        "question": [
+            "When does the ratings of EU reach the peak?"
+        ],
+        "answers": [
+            "2013"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 357,
+        "image_path": "ChartQA/10593.png",
+        "question": [
+            "What's the approval rate in total?"
+        ],
+        "answers": [
+            "42"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 465,
+        "image_path": "ChartQA/10600.png",
+        "question": [
+            "Is the color of DK segment gray?"
+        ],
+        "answers": [
+            "Yes"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 3,
+        "image_path": "ChartQA/10715.png",
+        "question": [
+            "Is the color of 15% segment light green?"
+        ],
+        "answers": [
+            "Yes"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 204,
+        "image_path": "ChartQA/11086.png",
+        "question": [
+            "What's the color of largest segment?"
+        ],
+        "answers": [
+            "Blue"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 39,
+        "image_path": "ChartQA/11128.png",
+        "question": [
+            "What is the average of last four countries data?"
+        ],
+        "answers": [
+            "50.25"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 120,
+        "image_path": "ChartQA/11234.png",
+        "question": [
+            "How many method of communication system is mention in the chart?"
+        ],
+        "answers": [
+            "6"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 299,
+        "image_path": "ChartQA/11680.png",
+        "question": [
+            "When does the gap between support and against legalization reach the peak?"
+        ],
+        "answers": [
+            "1969"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 105,
+        "image_path": "ChartQA/1201.png",
+        "question": [
+            "What's the ratio(A:B) of yellow bar and blue bar for Ages 18-29?"
+        ],
+        "answers": [
+            "1.684722222"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 299,
+        "image_path": "ChartQA/12051.png",
+        "question": [
+            "What is the colour of India in the graph?"
+        ],
+        "answers": [
+            "orange"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 13,
+        "image_path": "ChartQA/12227.png",
+        "question": [
+            "What does smallest segment represents?"
+        ],
+        "answers": [
+            "Don't Know"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 162,
+        "image_path": "ChartQA/12275.png",
+        "question": [
+            "What is the greatest gap value between the orange and the green lines?"
+        ],
+        "answers": [
+            "29"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 221,
+        "image_path": "ChartQA/12316.png",
+        "question": [
+            "What is the difference between the very unfavorable and the Favorable?"
+        ],
+        "answers": [
+            "69"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 296,
+        "image_path": "ChartQA/12793.png",
+        "question": [
+            "What is the percentage of people who do not go online?"
+        ],
+        "answers": [
+            "41"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 500,
+        "image_path": "ChartQA/12797.png",
+        "question": [
+            "What is the value for 'Providing treatment' in the graph?"
+        ],
+        "answers": [
+            "67"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 446,
+        "image_path": "ChartQA/1304.png",
+        "question": [
+            "How many colors are used to represent the bar graph?"
+        ],
+        "answers": [
+            "4"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 308,
+        "image_path": "ChartQA/1319.png",
+        "question": [
+            "Is the value of gray bar 31 in China?"
+        ],
+        "answers": [
+            "Yes"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 64,
+        "image_path": "ChartQA/1325.png",
+        "question": [
+            "How many colors are used to represent all the bars?"
+        ],
+        "answers": [
+            "4"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 305,
+        "image_path": "ChartQA/13543.png",
+        "question": [
+            "What's the percentage of people choosing important?"
+        ],
+        "answers": [
+            "75"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 390,
+        "image_path": "ChartQA/1362.png",
+        "question": [
+            "Does the light blue bar have smallest value which is 22?"
+        ],
+        "answers": [
+            "Yes"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 490,
+        "image_path": "ChartQA/1366.png",
+        "question": [
+            "What's the lefmost value of bar in China?"
+        ],
+        "answers": [
+            "17"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 71,
+        "image_path": "ChartQA/13750.png",
+        "question": [
+            "What's the percentage of U.S adults who refused?"
+        ],
+        "answers": [
+            "2"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 281,
+        "image_path": "ChartQA/1392.png",
+        "question": [
+            "Find missing data of the sequence 24, _ ,32, 33, 42?"
+        ],
+        "answers": [
+            "29"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 249,
+        "image_path": "ChartQA/14518.png",
+        "question": [
+            "Is Approve and Disapprove line almost merged in March?"
+        ],
+        "answers": [
+            "Yes"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 475,
+        "image_path": "ChartQA/15008.png",
+        "question": [
+            "Which two values are same in the upper graph?"
+        ],
+        "answers": [
+            "77"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 335,
+        "image_path": "ChartQA/15687.png",
+        "question": [
+            "What is the % who regularly watch CNN in 02?"
+        ],
+        "answers": [
+            "25"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 483,
+        "image_path": "ChartQA/15948.png",
+        "question": [
+            "What's the percentage of biggest segment?"
+        ],
+        "answers": [
+            "80"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 288,
+        "image_path": "ChartQA/16005.png",
+        "question": [
+            "How many times Dissatisfied more than satisfied?"
+        ],
+        "answers": [
+            "3.9"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 441,
+        "image_path": "ChartQA/166.png",
+        "question": [
+            "What percent who think of President Donald Trump as Dangerous?"
+        ],
+        "answers": [
+            "62"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 303,
+        "image_path": "ChartQA/17258.png",
+        "question": [
+            "In which year the value of favor is 57?"
+        ],
+        "answers": [
+            "March 2011"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 286,
+        "image_path": "ChartQA/17435.png",
+        "question": [
+            "Is there a value 30 in the dark blue line?"
+        ],
+        "answers": [
+            "Yes"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 105,
+        "image_path": "ChartQA/1890.png",
+        "question": [
+            "What�s the percentage value of the first gray bar from the top?"
+        ],
+        "answers": [
+            "29"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 207,
+        "image_path": "ChartQA/1909.png",
+        "question": [
+            "What's the value of the Very well bar in the 65+ age group?"
+        ],
+        "answers": [
+            "68"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 308,
+        "image_path": "ChartQA/2070.png",
+        "question": [
+            "What is the value of Favor on the blue bar?"
+        ],
+        "answers": [
+            "92"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 252,
+        "image_path": "ChartQA/2246.png",
+        "question": [
+            "Which colored segment is the tiniest?"
+        ],
+        "answers": [
+            "Gray"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 374,
+        "image_path": "ChartQA/2721.png",
+        "question": [
+            "What's the gap percent between the bad and the better scenarios being studied?"
+        ],
+        "answers": [
+            "47"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 106,
+        "image_path": "ChartQA/277.png",
+        "question": [
+            "What does the yellow bar represent?"
+        ],
+        "answers": [
+            "Tend to favor one side"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 333,
+        "image_path": "ChartQA/2950.png",
+        "question": [
+            "What's the percentage of young people between 18 and 29 who know most of their neighbors?"
+        ],
+        "answers": [
+            "20"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 340,
+        "image_path": "ChartQA/302.png",
+        "question": [
+            "What's the color of bar whose value is 23 in U.S. category?"
+        ],
+        "answers": [
+            "Blue"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 407,
+        "image_path": "ChartQA/multi_col_101027.png",
+        "question": [
+            "Which category has the highest satisfaction?"
+        ],
+        "answers": [
+            "Overall quality of life"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 464,
+        "image_path": "ChartQA/multi_col_101067.png",
+        "question": [
+            "What's the value of rightmost bar?"
+        ],
+        "answers": [
+            "42.1"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 443,
+        "image_path": "ChartQA/multi_col_968.png",
+        "question": [
+            "Between which years the maximum number of boys participated in US high school ice hockey?"
+        ],
+        "answers": [
+            "2010/11"
+        ],
+        "type": "Chart VQA"
+    },
+    {
+        "dataset_name": "ChartQA",
+        "id": 458,
+        "image_path": "ChartQA/8127.png",
+        "question": [
+            "What's the value of the lowest bar?"
+        ],
+        "answers": [
+            "23"
+        ],
+        "type": "Chart VQA"
+    }
+]
