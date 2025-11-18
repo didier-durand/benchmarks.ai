@@ -1,0 +1,860 @@
+{
+    "clock": [
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "6:00:00",
+            "image": "image_1.png",
+            "id": 1
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "1:00:00",
+            "image": "image_2.png",
+            "id": 2
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "3:00:00",
+            "image": "image_3.png",
+            "id": 3
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "7:00:00",
+            "image": "image_4.png",
+            "id": 4
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "11:00:00",
+            "image": "image_5.png",
+            "id": 5
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "12:00:00",
+            "image": "image_6.png",
+            "id": 6
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "2:00:00",
+            "image": "image_7.png",
+            "id": 7
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "9:00:00",
+            "image": "image_8.png",
+            "id": 8
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "4:00:00",
+            "image": "image_9.png",
+            "id": 9
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "10:00:00",
+            "image": "image_10.png",
+            "id": 10
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "5:00:00",
+            "image": "image_11.png",
+            "id": 11
+        },
+        {
+            "type": "easy",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "8:00:00",
+            "image": "image_12.png",
+            "id": 12
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "12:55:36",
+            "image": "image_13.png",
+            "id": 13
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "11:03:25",
+            "image": "image_14.png",
+            "id": 14
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "8:32:48",
+            "image": "image_15.png",
+            "id": 15
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "1:14:43",
+            "image": "image_16.png",
+            "id": 16
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "4:04:28",
+            "image": "image_17.png",
+            "id": 17
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "6:02:06",
+            "image": "image_18.png",
+            "id": 18
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "7:15:37",
+            "image": "image_19.png",
+            "id": 19
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "3:48:02",
+            "image": "image_20.png",
+            "id": 20
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "9:43:49",
+            "image": "image_21.png",
+            "id": 21
+        },
+        {
+            "type": "black_dial",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "2:24:38",
+            "image": "image_22.png",
+            "id": 22
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "9:04:18",
+            "image": "image_23.png",
+            "id": 23
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "11:32:00",
+            "image": "image_24.png",
+            "id": 24
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "8:15:44",
+            "image": "image_25.png",
+            "id": 25
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "10:43:52",
+            "image": "image_26.png",
+            "id": 26
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "5:25:27",
+            "image": "image_27.png",
+            "id": 27
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "1:33:12",
+            "image": "image_28.png",
+            "id": 28
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "3:35:31",
+            "image": "image_29.png",
+            "id": 29
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "2:17:51",
+            "image": "image_30.png",
+            "id": 30
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "5:16:35",
+            "image": "image_31.png",
+            "id": 31
+        },
+        {
+            "type": "roman",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "6:51:36",
+            "image": "image_32.png",
+            "id": 32
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "2:20:14",
+            "image": "image_33.png",
+            "id": 33
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "8:10:00",
+            "image": "image_34.png",
+            "id": 34
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "6:24:54",
+            "image": "image_35.png",
+            "id": 35
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "3:35:12",
+            "image": "image_36.png",
+            "id": 36
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "10:40:15",
+            "image": "image_37.png",
+            "id": 37
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "4:08:40",
+            "image": "image_38.png",
+            "id": 38
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "7:32:08",
+            "image": "image_39.png",
+            "id": 39
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "9:58:35",
+            "image": "image_40.png",
+            "id": 40
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "1:10:30",
+            "image": "image_41.png",
+            "id": 41
+        },
+        {
+            "type": "basic",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "5:45:31",
+            "image": "image_42.png",
+            "id": 42
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "6:47:00",
+            "image": "image_43.png",
+            "id": 43
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "11:28:00",
+            "image": "image_44.png",
+            "id": 44
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "4:10:00",
+            "image": "image_45.png",
+            "id": 45
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "3:23:00",
+            "image": "image_46.png",
+            "id": 46
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "8:21:00",
+            "image": "image_47.png",
+            "id": 47
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "12:53:00",
+            "image": "image_48.png",
+            "id": 48
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "7:09:32",
+            "image": "image_49.png",
+            "id": 49
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "10:20:00",
+            "image": "image_50.png",
+            "id": 50
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "1:20:00",
+            "image": "image_51.png",
+            "id": 51
+        },
+        {
+            "type": "no_second_hand",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "2:39:00",
+            "image": "image_52.png",
+            "id": 52
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "12:35:05",
+            "image": "image_53.png",
+            "id": 53
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "4:12:05",
+            "image": "image_54.png",
+            "id": 54
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "11:56:09",
+            "image": "image_55.png",
+            "id": 55
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "8:02:21",
+            "image": "image_56.png",
+            "id": 56
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "9:21:04",
+            "image": "image_57.png",
+            "id": 57
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "6:49:58",
+            "image": "image_58.png",
+            "id": 58
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "5:20:45",
+            "image": "image_59.png",
+            "id": 59
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "1:54:20",
+            "image": "image_60.png",
+            "id": 60
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "7:44:19",
+            "image": "image_61.png",
+            "id": 61
+        },
+        {
+            "type": "arrows",
+            "question": "What time is shown on the clock in the given image?",
+            "answer": "3:18:07",
+            "image": "image_62.png",
+            "id": 62
+        }
+    ],
+    "calendar": [
+        {
+            "type": "2025",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Wednesday",
+            "image": "image_63.png",
+            "id": 63
+        },
+        {
+            "type": "2025",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Thursday",
+            "image": "image_64.png",
+            "id": 64
+        },
+        {
+            "type": "2025",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Saturday",
+            "image": "image_65.png",
+            "id": 65
+        },
+        {
+            "type": "2025",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Thursday",
+            "image": "image_66.png",
+            "id": 66
+        },
+        {
+            "type": "2025",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Monday",
+            "image": "image_67.png",
+            "id": 67
+        },
+        {
+            "type": "2025",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Friday",
+            "image": "image_68.png",
+            "id": 68
+        },
+        {
+            "type": "2024",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Monday",
+            "image": "image_69.png",
+            "id": 69
+        },
+        {
+            "type": "2024",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Wednesday",
+            "image": "image_70.png",
+            "id": 70
+        },
+        {
+            "type": "2024",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Friday",
+            "image": "image_71.png",
+            "id": 71
+        },
+        {
+            "type": "2024",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Tuesday",
+            "image": "image_72.png",
+            "id": 72
+        },
+        {
+            "type": "2024",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Saturday",
+            "image": "image_73.png",
+            "id": 73
+        },
+        {
+            "type": "2024",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Thursday",
+            "image": "image_74.png",
+            "id": 74
+        },
+        {
+            "type": "2023",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Sunday",
+            "image": "image_75.png",
+            "id": 75
+        },
+        {
+            "type": "2023",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Monday",
+            "image": "image_76.png",
+            "id": 76
+        },
+        {
+            "type": "2023",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Wednesday",
+            "image": "image_77.png",
+            "id": 77
+        },
+        {
+            "type": "2023",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Monday",
+            "image": "image_78.png",
+            "id": 78
+        },
+        {
+            "type": "2023",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Friday",
+            "image": "image_79.png",
+            "id": 79
+        },
+        {
+            "type": "2023",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Tuesday",
+            "image": "image_80.png",
+            "id": 80
+        },
+        {
+            "type": "2022",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Saturday",
+            "image": "image_81.png",
+            "id": 81
+        },
+        {
+            "type": "2022",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Sunday",
+            "image": "image_82.png",
+            "id": 82
+        },
+        {
+            "type": "2022",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Tuesday",
+            "image": "image_83.png",
+            "id": 83
+        },
+        {
+            "type": "2022",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Sunday",
+            "image": "image_84.png",
+            "id": 84
+        },
+        {
+            "type": "2022",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Thursday",
+            "image": "image_85.png",
+            "id": 85
+        },
+        {
+            "type": "2022",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Monday",
+            "image": "image_86.png",
+            "id": 86
+        },
+        {
+            "type": "2021",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Friday",
+            "image": "image_87.png",
+            "id": 87
+        },
+        {
+            "type": "2021",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Saturday",
+            "image": "image_88.png",
+            "id": 88
+        },
+        {
+            "type": "2021",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Monday",
+            "image": "image_89.png",
+            "id": 89
+        },
+        {
+            "type": "2021",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Saturday",
+            "image": "image_90.png",
+            "id": 90
+        },
+        {
+            "type": "2021",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Wednesday",
+            "image": "image_91.png",
+            "id": 91
+        },
+        {
+            "type": "2021",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Sunday",
+            "image": "image_92.png",
+            "id": 92
+        },
+        {
+            "type": "2020",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Wednesday",
+            "image": "image_93.png",
+            "id": 93
+        },
+        {
+            "type": "2020",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Friday",
+            "image": "image_94.png",
+            "id": 94
+        },
+        {
+            "type": "2020",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Sunday",
+            "image": "image_95.png",
+            "id": 95
+        },
+        {
+            "type": "2020",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Thursday",
+            "image": "image_96.png",
+            "id": 96
+        },
+        {
+            "type": "2020",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Monday",
+            "image": "image_97.png",
+            "id": 97
+        },
+        {
+            "type": "2020",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Saturday",
+            "image": "image_98.png",
+            "id": 98
+        },
+        {
+            "type": "2019",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Tuesday",
+            "image": "image_99.png",
+            "id": 99
+        },
+        {
+            "type": "2019",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Wednesday",
+            "image": "image_100.png",
+            "id": 100
+        },
+        {
+            "type": "2019",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Friday",
+            "image": "image_101.png",
+            "id": 101
+        },
+        {
+            "type": "2019",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Wednesday",
+            "image": "image_102.png",
+            "id": 102
+        },
+        {
+            "type": "2019",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Sunday",
+            "image": "image_103.png",
+            "id": 103
+        },
+        {
+            "type": "2019",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Thursday",
+            "image": "image_104.png",
+            "id": 104
+        },
+        {
+            "type": "2018",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Monday",
+            "image": "image_105.png",
+            "id": 105
+        },
+        {
+            "type": "2018",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Tuesday",
+            "image": "image_106.png",
+            "id": 106
+        },
+        {
+            "type": "2018",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Thursday",
+            "image": "image_107.png",
+            "id": 107
+        },
+        {
+            "type": "2018",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Tuesday",
+            "image": "image_108.png",
+            "id": 108
+        },
+        {
+            "type": "2018",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Saturday",
+            "image": "image_109.png",
+            "id": 109
+        },
+        {
+            "type": "2018",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Wednesday",
+            "image": "image_110.png",
+            "id": 110
+        },
+        {
+            "type": "2017",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Sunday",
+            "image": "image_111.png",
+            "id": 111
+        },
+        {
+            "type": "2017",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Monday",
+            "image": "image_112.png",
+            "id": 112
+        },
+        {
+            "type": "2017",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Wednesday",
+            "image": "image_113.png",
+            "id": 113
+        },
+        {
+            "type": "2017",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Monday",
+            "image": "image_114.png",
+            "id": 114
+        },
+        {
+            "type": "2017",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Friday",
+            "image": "image_115.png",
+            "id": 115
+        },
+        {
+            "type": "2017",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Tuesday",
+            "image": "image_116.png",
+            "id": 116
+        },
+        {
+            "type": "2016",
+            "question": "Which day of the week is New Year's Day?",
+            "answer": "Friday",
+            "image": "image_117.png",
+            "id": 117
+        },
+        {
+            "type": "2016",
+            "question": "Which day of the week is Christmas?",
+            "answer": "Sunday",
+            "image": "image_118.png",
+            "id": 118
+        },
+        {
+            "type": "2016",
+            "question": "What's the day of the week on March 15th?",
+            "answer": "Tuesday",
+            "image": "image_119.png",
+            "id": 119
+        },
+        {
+            "type": "2016",
+            "question": "Which weekday corresponds to the 100th day of the year? (Assume January 1st is day 1.)",
+            "answer": "Saturday",
+            "image": "image_120.png",
+            "id": 120
+        },
+        {
+            "type": "2016",
+            "question": "Which weekday corresponds to the 153rd day of the year? (Assume January 1st is day 1.)",
+            "answer": "Wednesday",
+            "image": "image_121.png",
+            "id": 121
+        },
+        {
+            "type": "2016",
+            "question": "What's the day of the week on November 21st?",
+            "answer": "Monday",
+            "image": "image_122.png",
+            "id": 122
+        }
+    ]
+}
